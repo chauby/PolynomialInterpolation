@@ -30,10 +30,10 @@ In this project, we provide the source code of polynomial interpolation methods 
 获取本项目代码附带的文章教程有以下3个途径（For tutorials）：
 
 1. 知乎专栏【AI与机器人】：https://zhuanlan.zhihu.com/c_1212783320150577152
-2. CSDN博客【博士的沙漏】：https://blog.csdn.net/shakehands2012
-3. 微信公众号：博士的沙漏【已更名为：沙漏AI机器人】。
+2. CSDN博客【沙漏】：https://blog.csdn.net/shakehands2012
+3. 微信公众号：沙漏AI机器人。
 
-![image](https://github.com/chauby/PolynomialInterpolation/blob/main/qrcode.jpg)
+![image](https://github.com/chauby/PolynomialInterpolation/blob/main/qrcode.png)
 
 
 
